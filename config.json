@@ -1,0 +1,15 @@
+{
+    "app": {
+        "name": "VAULTGEN",
+        "version": "1.0.0"
+    },
+    "generator": {
+        "default_length": 24,
+        "max_length": 512,
+        "exclude_ambiguous": true
+    },
+    "passphrase": {
+        "default_words": 4,
+        "separator": "-"
+    }
+}
