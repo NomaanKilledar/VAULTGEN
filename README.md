@@ -50,7 +50,7 @@ The standalone executable does not require a separate Python installation.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VAULTGEN.git
+git clone https://github.com/NomaanKilledar/VAULTGEN.git
 cd VAULTGEN
 ```
 
